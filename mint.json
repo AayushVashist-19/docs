@@ -75,7 +75,7 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Getting Started with JustCall",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
